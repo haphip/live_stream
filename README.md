@@ -1,1 +1,1 @@
-Обучение по Playwright: https://t.me/how_to_code_web3
+Обучение Playwright: https://t.me/how_to_code_web3
